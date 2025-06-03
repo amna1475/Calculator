@@ -13,6 +13,7 @@ Responsive layout for different screen sizes
 Clean and minimal design
 
 💡 Purpose
+
 This project was built to strengthen my core JavaScript skills.
 
 Before diving into frameworks like React, it’s important to have a solid understanding of JavaScript fundamentals.
